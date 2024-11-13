@@ -1,6 +1,6 @@
-# inspire01
+# Be inspired
 
-A new Flutter project.
+Inspiration to Do What You Need to Do.
 
 ## Getting Started
 
